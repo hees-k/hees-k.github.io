@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/m-invite/static/css/main.02bb8838.css",
+    "main.js": "/m-invite/static/js/main.1330c5ff.js",
+    "static/js/787.9b74c651.chunk.js": "/m-invite/static/js/787.9b74c651.chunk.js",
+    "static/media/gallery_4.jpg": "/m-invite/static/media/gallery_4.59cdedd84c21375aff5a.jpg",
+    "static/media/gallery_11.jpg": "/m-invite/static/media/gallery_11.aec2981a3a8745968a1b.jpg",
+    "static/media/gallery_8.jpg": "/m-invite/static/media/gallery_8.dcfb92fb6a589dd2282c.jpg",
+    "static/media/Carpenters-Close_to_you.ogg": "/m-invite/static/media/Carpenters-Close_to_you.01f25f4ebc41e07d0326.ogg",
+    "static/media/gallery_3.jpg": "/m-invite/static/media/gallery_3.6bab972325fb2a0655b2.jpg",
+    "static/media/gallery_10.jpg": "/m-invite/static/media/gallery_10.4981f0d15dc9261a6302.jpg",
+    "static/media/gallery_12.jpg": "/m-invite/static/media/gallery_12.8ea7de69339d8b865554.jpg",
+    "static/media/gallery_1.jpg": "/m-invite/static/media/gallery_1.50d6862c8a47f636f683.jpg",
+    "static/media/gallery_2.jpg": "/m-invite/static/media/gallery_2.7c9b6075050b30555137.jpg",
+    "static/media/gallery_9.jpg": "/m-invite/static/media/gallery_9.9d72c9ff0714a8b2f1c2.jpg",
+    "static/media/gallery_6.jpg": "/m-invite/static/media/gallery_6.bb484fba3786e38617be.jpg",
+    "static/media/gallery_7.jpg": "/m-invite/static/media/gallery_7.ae7f665bebd3da9fc590.jpg",
+    "static/media/gallery_5.jpg": "/m-invite/static/media/gallery_5.370e61c1009482c2eafe.jpg",
+    "static/media/title.webp": "/m-invite/static/media/title.a9f710a05b4bb41fe486.webp",
+    "static/media/gallery_11_thumb.jpg": "/m-invite/static/media/gallery_11_thumb.3083c1ef11f7bfbd5f69.jpg",
+    "static/media/gallery_4_thumb.jpg": "/m-invite/static/media/gallery_4_thumb.39d91b4921a52f3c93b4.jpg",
+    "static/media/title_thumb.jpg": "/m-invite/static/media/title_thumb.380b062016e433b0e4be.jpg",
+    "static/media/gallery_8_thumb.jpg": "/m-invite/static/media/gallery_8_thumb.7794b57341df21406411.jpg",
+    "static/media/gallery_10_thumb.jpg": "/m-invite/static/media/gallery_10_thumb.b05404dccd81d5806bab.jpg",
+    "static/media/gallery_12_thumb.jpg": "/m-invite/static/media/gallery_12_thumb.1ccf26ec472d9dd033e9.jpg",
+    "static/media/gallery_3_thumb.jpg": "/m-invite/static/media/gallery_3_thumb.c3585dcb14659f4148b2.jpg",
+    "static/media/gallery_1_thumb.jpg": "/m-invite/static/media/gallery_1_thumb.6d91ddb5806eac7ec94a.jpg",
+    "static/media/gallery_2_thumb.jpg": "/m-invite/static/media/gallery_2_thumb.cc1111be67fdd99925ce.jpg",
+    "static/media/gallery_6_thumb.jpg": "/m-invite/static/media/gallery_6_thumb.6e1535b5bbb20b2f93dc.jpg",
+    "static/media/gallery_9_thumb.jpg": "/m-invite/static/media/gallery_9_thumb.0043b3f4c63dd238ea77.jpg",
+    "static/media/gallery_7_thumb.jpg": "/m-invite/static/media/gallery_7_thumb.d94499bb3a83f4f80121.jpg",
+    "static/media/gallery_5_thumb.jpg": "/m-invite/static/media/gallery_5_thumb.f1fa15f464183353b901.jpg",
+    "static/media/LocationMap.png": "/m-invite/static/media/LocationMap.8c8fb4ad74dfcbabbb82.png",
+    "index.html": "/m-invite/index.html",
+    "main.02bb8838.css.map": "/m-invite/static/css/main.02bb8838.css.map",
+    "main.1330c5ff.js.map": "/m-invite/static/js/main.1330c5ff.js.map",
+    "787.9b74c651.chunk.js.map": "/m-invite/static/js/787.9b74c651.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02bb8838.css",
+    "static/js/main.1330c5ff.js"
+  ]
+}
