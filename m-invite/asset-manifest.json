@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.c20efc7f.css",
-    "main.js": "./static/js/main.095cfdae.js",
+    "main.js": "./static/js/main.e5ac1407.js",
     "static/js/787.9b74c651.chunk.js": "./static/js/787.9b74c651.chunk.js",
     "static/media/Close_to_you_Guitar_-The-Dreamers-_128_.ogg": "./static/media/Close_to_you_Guitar_-The-Dreamers-_128_.fa4c43ecba46715b79a2.ogg",
     "static/media/gallery_4.jpg": "./static/media/gallery_4.b08bffd9bc3bc239ba4a.jpg",
@@ -44,11 +44,11 @@
     "static/media/dress.svg": "./static/media/dress.1d0c0c73ccefd3695c2545867d1039c2.svg",
     "static/media/note.svg": "./static/media/note.b5d1466828ad97871b5bf75fbf66d8f5.svg",
     "main.c20efc7f.css.map": "./static/css/main.c20efc7f.css.map",
-    "main.095cfdae.js.map": "./static/js/main.095cfdae.js.map",
+    "main.e5ac1407.js.map": "./static/js/main.e5ac1407.js.map",
     "787.9b74c651.chunk.js.map": "./static/js/787.9b74c651.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c20efc7f.css",
-    "static/js/main.095cfdae.js"
+    "static/js/main.e5ac1407.js"
   ]
 }
